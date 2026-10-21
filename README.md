@@ -24,7 +24,7 @@ Me apasiona la tecnología, la programación y el potencial que tiene el softwar
 
 🛠️ Tecnologías y conocimientos en desarollo: 
 
-<h2 align="center">🛠️ Tecnologías y herramientas</h2>
+<h2 align="center"></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,github,vscode,sqlite&perline=7" />
